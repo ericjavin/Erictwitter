@@ -22,10 +22,10 @@ import webbrowser, os.path
 #https://apps.twitter.com/      Create a new app and use tokens to access the API information
 # --- oAuth Information -----------------------------------------------
 
-OAUTH_TOKEN		    = '416427187-A3oD0gOAH6IBhg84niZSXBMAyfroaLqfk3YouvFA'
-OAUTH_SECRET		= 'svtmBTyb89PisVRD8zTkinPDx6qj6fmi7Fx9pSF5uBtV1'
-CONSUMER_KEY		= 'JGERP3dT2xx1yxWNpeGEEFPsD'
-CONSUMER_SECRET	    = 'nYd5wtWEuwXWp5rGZLKo2iQzhx1e99ndfaSHmELVsnG91JtMOx'
+OAUTH_TOKEN		    = ''
+OAUTH_SECRET		= ''
+CONSUMER_KEY		= ''
+CONSUMER_SECRET	    = ''
 
 # ---------------------------------------------------------------------
 
